@@ -32,6 +32,11 @@ Font used in most antipixel graphics:
 - [Antipixel Buttons by Príomh Ó hÚigínn](https://dribbble.com/shots/997282-Antipixel-Buttons-80-x-15) - 208 assorted, 805 brands, 8 firefox, 72 twitter graphics (total 1093)
 - [taylor mcKnight's buttons](https://web.archive.org/web/20080220004411/http://gtmcknight.com/buttons/blogware.php) - 4022 graphics
 
+## Contribute
+Feel free to add new badges, new Links etc. using Pull Request, or by opening an issue. 
+
+## License
+Content created by mbledkowski in this repo is licensed under CC0 1.0. Other content added to this archive is owned by its original creators. 
 
 [^1]: https://pl.wikipedia.org/wiki/Antipixel
 [^2]: https://web.archive.org/web/20060716195132/http://www.antipixel.com/blog/
