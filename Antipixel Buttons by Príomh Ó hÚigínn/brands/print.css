@@ -1,0 +1,71 @@
+
+BODY {
+	COLOR: #000000;
+	FONT-FAMILY: Verdana, Arial;
+	FONT-SIZE: 100%;
+	BACKGROUND-COLOR: #FFFFFF;
+	MARGIN: 0px;
+}
+
+.main {
+	FONT-SIZE: 70%;
+	WIDTH: 100%;
+	MARGIN-TOP: 5px;
+	MARGIN-BOTTOM: 10px;
+	TEXT-ALIGN: left;
+}
+
+.disclaimer {
+ 	FONT-SIZE: 70%;
+ 	WIDTH: 96%;
+ 	MARGIN-TOP: 5px;
+ 	MARGIN-BOTTOM: 10px;
+ 	TEXT-ALIGN: center;
+ 	BORDER: 1px solid #000000;
+ 	PADDING: 5px;
+ 	BACKGROUND-COLOR: #E0E0E0;
+ 	COLOR: #000000;
+}
+
+.btn_head {
+	FONT-SIZE: 80%;
+	COLOR: #000000;
+	BACKGROUND-COLOR: #E0E0E0;
+	BORDER: 1px #000000 solid;
+	PADDING: 2px;
+	WIDTH: 95%;
+	FONT-FAMILY: Verdana,Arial;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none;
+	MARGIN-TOP: 18px;
+	MARGIN-BOTTOM: 8px;
+	TEXT-ALIGN: center;
+}
+
+.table1 {
+	WIDTH: 100%;
+	BORDER: 2px solid #000000;
+}
+
+.table2 {
+	WIDTH: 80%;
+	BORDER: 2px solid #000000;
+}
+
+.table1_td {
+	BACKGROUND-COLOR: #FFFFFF;
+}
+
+.btn {width: 80px; height: 15px; margin: 2px; margin-bottom: 1px;}
+
+a.reg {COLOR: #0000C0; FONT-WEIGHT: bold; TEXT-DECORATION: none;}
+
+a.btn1:hover {color: #FFFFFF;}
+.btn1 img {border: 1px solid #FFFFFF;}
+a.btn1:hover img {border: 1px solid #FFFFFF;}
+
+.btn2 {border: 1px solid #FFFFFF;}
+
+.screen_only {DISPLAY: none;}
+
+.hilite {COLOR: #000000;}
