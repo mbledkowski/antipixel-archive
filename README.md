@@ -4,7 +4,7 @@ Archive of the `antipixel` / `80x15 web badges` / `80x15 brilliant button` image
 ## About
 Antipixel is a website badge, very often placed in the footer, used to inform users on technologies that website uses, standards that website complies with, a license under which content is published on etc.
 
-According to Polish Wikipedia[^1], Antipixel was invented by Jeremy Hedley, who ran a blog under the same name[^2]. Article called ["Steal These Buttons" posted on 22 Oct 2002](https://web.archive.org/web/20130813132535/http://www.antipixel.com/blog/archives/2002/10/22/steal_these_buttons.html)
+According to Polish Wikipedia[^1], Antipixel was invented by Jeremy Hedley, who ran a blog under the same name[^2]. Article called ["Steal These Buttons" posted on 22 Oct 2002](https://web.archive.org/web/20130813132535/http://www.antipixel.com/blog/archives/2002/10/22/steal_these_buttons.html) by Jeremy Hedley
 
 ## How to
 ### Badge proportions
