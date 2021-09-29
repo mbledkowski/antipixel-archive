@@ -21,6 +21,8 @@ Font used in most antipixel graphics:
 
 ## Tools
 - Adam Kalsey's Button Maker - http://www.kalsey.com/tools/buttonmaker/
+- Samuele Santi's Python-powered Antipixel generation library (APyX) - https://github.com/rshk/apyx
+  - Fork of APyX working under Python 3 - https://github.com/mbledkowski/apyx/tree/main
 - RedKid's Button Generator (BROKEN!) - http://www.redkid.net/generator/button/index2.php
 
 ## Badges
