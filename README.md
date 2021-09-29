@@ -8,11 +8,14 @@ According to Polish Wikipedia[^1], Antipixel was invented by Jeremy Hedley, who 
 
 Article called ["Steal These Buttons" posted on 22 Oct 2002](https://web.archive.org/web/20130813132535/http://www.antipixel.com/blog/archives/2002/10/22/steal_these_buttons.html) by Jeremy Hedley
 
+[^1]: https://pl.wikipedia.org/wiki/Antipixel
+[^2]: https://web.archive.org/web/20060716195132/http://www.antipixel.com/blog/
+
 ## How to
 ### Badge proportions
-Badge proportions proposed by [web.badges.world](https://web.badges.world) website:
+Recomended badge proportions from [zwahlendesign.ch](http://web.archive.org/web/20060411214014/http://www.zwahlendesign.ch/en/node/19):
 
-![Badge measure by badges.world](https://web.badges.world/badge-measure.png)
+![Standard Web Badge](http://web.archive.org/web/20160331143829/http://www.zwahlendesign.ch/images/documentation/badges_large.png)
 
 ### Font
 Font used in most antipixel graphics:
@@ -23,10 +26,13 @@ Font used in most antipixel graphics:
 - Adam Kalsey's Button Maker - http://www.kalsey.com/tools/buttonmaker/
 - Samuele Santi's Python-powered Antipixel generation library (APyX) - https://github.com/rshk/apyx
   - Fork of APyX working under Python 3 - https://github.com/mbledkowski/apyx/tree/main
+
+### Not working anymore
 - RedKid's Button Generator (BROKEN!) - http://www.redkid.net/generator/button/index2.php
+- Luca Zappa's 80x15 Brilliant Button Maker (DOWN!) - http://web.archive.org/web/20180105041443/http://www.lucazappa.com/brilliantMaker/buttonImage.php
 
 ## Badges
-
+- [zwahlendesign's Web Badges Article](http://web.archive.org/web/20060411214014/http://www.zwahlendesign.ch/en/node/19)
 ### Packs
 - [web.badges.world](https://web.badges.world/) - 3961 graphics
 - [Antipixel Buttons by Príomh Ó hÚigínn](https://dribbble.com/shots/997282-Antipixel-Buttons-80-x-15) - 208 assorted, 805 brands, 8 firefox, 72 twitter graphics (total 1093)
@@ -36,7 +42,4 @@ Font used in most antipixel graphics:
 Feel free to add new badges, new Links etc. using Pull Request, or by opening an issue. 
 
 ## License
-Content created by mbledkowski in this repo is licensed under CC0 1.0. Other content added to this archive is owned by its original creators. 
-
-[^1]: https://pl.wikipedia.org/wiki/Antipixel
-[^2]: https://web.archive.org/web/20060716195132/http://www.antipixel.com/blog/
+Content created by [@mbledkowski](https://github.com/mbledkowski) and uploaded to this repo is licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Other content added to this archive is owned by its original creators.
