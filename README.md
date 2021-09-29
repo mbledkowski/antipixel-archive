@@ -8,7 +8,7 @@ According to Polish Wikipedia[^1], Antipixel was invented by Jeremy Hedley, who 
 
 ## How to
 ### Badge proportions
-Badge prportions proposed by [web.badges.world](https://web.badges.world) website:
+Badge proportions proposed by [web.badges.world](https://web.badges.world) website:
 
 ![Badge measure by badges.world](https://web.badges.world/badge-measure.png)
 
