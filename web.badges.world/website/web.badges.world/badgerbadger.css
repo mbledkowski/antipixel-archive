@@ -1,0 +1,309 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+@font-face{
+	font-family: silkscreen;
+	src: url(font/slkscr.ttf);
+}
+
+* { box-sizing: border-box; }
+
+body {
+  font-family:"Courier Prime",Courier, monospace;
+  font-size:12px;
+}
+.preloader{
+	opacity:0;
+}
+.slowsorry{
+	font-size:1em;
+	color:red;
+	text-align:center;
+}
+#loadsplash{
+	position:absolute;
+	top:40%;
+	left:45vw;
+	width:250px;
+	z-index:9999;
+}
+
+.grid{
+	clear: both;
+	margin-top:90px;
+	max-width:1280px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.grid-item {
+	width:80px;
+	height:15px;
+	margin:1px;
+	display:inline-block;
+}
+.tooltiptext{
+	display:none;
+}
+#header{
+	position:fixed;
+	top:0;
+	z-index:998;
+	background-color:#fff;
+	width:100%;
+}
+
+/* ---- input ---- */
+.filters p{
+	display:inline-block;
+	padding:15px 105px 15px 0;
+	margin:0;
+	float:right;
+}
+input[type="text"] {
+  font-family:silkscreen;
+  font-size: 10px;
+  margin:0;
+  padding:0;
+}
+
+/* ---- button ---- */
+
+.button {
+	width:80px;
+	height:15px;
+	font-family:silkscreen;
+	font-size:8px;
+	color:#000;
+	margin:1px;
+	padding:0;
+	padding-right:3px;
+	border:none;
+	font-weight:bold;
+	text-align:right;
+	background-image:url(blank.png);
+}
+
+.wider {
+	background-image:url(blank2.png);
+}
+.narrow {
+	background-image:url(blank3.png);
+}
+
+.button:hover {
+  color:#fff;
+}
+
+.button:active,
+.button.is-checked {
+  filter: invert(100%);
+}
+
+/* ---- button-group ---- */
+
+.button-group:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+.button-group .button {
+  float: left;
+}
+
+/* ---- ui-group ---- */
+.ui-group {
+	display: inline-block;
+ 	clear: both;
+ 	vertical-align: top;
+ 	padding-left:20px;
+ 	padding-right:20px;
+ 	margin-bottom:10px;
+}
+.ui-group h6 {
+	margin:0;
+	padding:0;
+	text-align:center;
+	font-family:silkscreen;
+	font-size:10px;
+}
+
+/* ---- floating labels ---- */
+.label-container{
+	z-index:5000;
+	display:table;
+	visibility: hidden;
+}
+.nav-container{
+	position:absolute;
+	top:14px;
+	right:54px;
+}
+.info-container{
+	position:absolute;
+	bottom:14px;
+	left:60px;
+}
+
+.label-text{
+	color:#FFF;
+	background:rgba(51,51,51,1);
+	display:table-cell;
+	vertical-align:middle;
+	padding:10px;
+	border-radius:3px;
+}
+
+i.label-arrow{
+	display:table-cell;
+	vertical-align:middle;
+	color:#333;
+	opacity:0.5;
+	font-size:2em;
+}
+
+a.float + div.label-container {
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s, opacity 0.5s ease;
+}
+
+a.float:hover + div.label-container{
+  visibility: visible;
+  opacity: 1;
+}
+
+
+/* custom */
+
+.measure{
+	width:500px;
+}
+#accordion{
+	font-family:"Courier Prime",Courier, monospace;
+	display:inline-block;
+	position:fixed;
+	max-width:750px;
+	max-height:80vh;
+	bottom:65px;
+	left:12px;
+	z-index:999;
+	background-color:#fff;
+	overflow:auto;
+}
+#controls {
+	margin:auto;
+	display:inline-block;
+	margin-bottom:10px;
+	padding:6px 6px 0 6px;
+	border:1px solid #ccc;
+	position:fixed;
+	width:350px;
+	max-width: 350px;
+	top:0;
+	right:0;
+	z-index:999;
+	background-color:#fff;
+}
+.info-button{
+	position:fixed;
+	bottom:10px;
+	left:10px;
+	width:50px;
+	height:50px;
+	background-color:#007FFF;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+	box-shadow: 2px 2px 3px #999;
+	z-index:1000;
+}
+
+.float .my-float{
+	font-size:2.7em;
+	margin-top:5px;
+}
+.nav-button{
+	position:fixed;
+	top:5px;
+	right:10px;
+	width:50px;
+	height:50px;
+	background-color:#007FFF;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+	box-shadow: 2px 2px 3px #999;
+	z-index:1000;
+}
+
+.filters{
+
+}
+
+.filter-group{
+	clear:none;
+}
+
+
+.page-load-status {
+  border-top: 1px solid #DDD;
+  text-align: center;
+  color: #777;
+  position:fixed;
+  width:100%;
+  bottom:0;
+  z-index:999;
+  background-color:#fff;
+}
+
+/* loader-ellips */
+
+.loader-ellips {
+  font-size: 20px; /* change size here */
+  position: relative;
+  width: 4em;
+  height: 1em;
+  margin: 10px auto;
+}
+
+.loader-ellips__dot {
+  display: block;
+  width: 1em;
+  height: 1em;
+  border-radius: 0.5em;
+  background: #555; /* change color here */
+  position: absolute;
+  animation-duration: 0.5s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+}
+
+.loader-ellips__dot:nth-child(1),
+.loader-ellips__dot:nth-child(2) {
+  left: 0;
+}
+.loader-ellips__dot:nth-child(3) { left: 1.5em; }
+.loader-ellips__dot:nth-child(4) { left: 3em; }
+
+@keyframes reveal {
+  from { transform: scale(0.001); }
+  to { transform: scale(1); }
+}
+
+@keyframes slide {
+  to { transform: translateX(1.5em) }
+}
+
+.loader-ellips__dot:nth-child(1) {
+  animation-name: reveal;
+}
+
+.loader-ellips__dot:nth-child(2),
+.loader-ellips__dot:nth-child(3) {
+  animation-name: slide;
+}
+
+.loader-ellips__dot:nth-child(4) {
+  animation-name: reveal;
+  animation-direction: reverse;
+}

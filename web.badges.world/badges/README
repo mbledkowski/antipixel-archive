@@ -1,0 +1,4 @@
+Downloaded using: node ../script.js | parallel --gnu "wget {}" 2>&1 | tee LOGS
+About tool: wget --version
+GNU Wget 1.21.2 built on linux-gnu.
+Logs: ./LOGS

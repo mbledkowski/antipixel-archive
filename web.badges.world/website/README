@@ -1,0 +1,179 @@
+Copyrights: ./NOTICE
+Downloaded date: 29 Sep 2021, 5 AM
+Downloaded using: wget -r https://web.badges.world/
+About tool: wget --version
+GNU Wget 1.21.2 built on linux-gnu.
+Logs:
+--2021-09-29 05:06:05--  https://web.badges.world/
+SSL_INIT
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving web.badges.world (web.badges.world)... 151.101.1.195, 151.101.65.195
+Connecting to web.badges.world (web.badges.world)|151.101.1.195|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 11189 (11K) [text/html]
+Saving to: ‘web.badges.world/index.html’
+
+web.badges.world/index.html                        100%[==============================================================================================================>]  10.93K  30.5KB/s    in 0.4s
+
+2021-09-29 05:06:07 (30.5 KB/s) - ‘web.badges.world/index.html’ saved [11189/11189]
+
+Loading robots.txt; please ignore errors.
+--2021-09-29 05:06:07--  https://web.badges.world/robots.txt
+SSL_INIT
+Reusing existing connection to web.badges.world:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 11189 (11K) [text/html]
+Saving to: ‘web.badges.world/robots.txt’
+
+web.badges.world/robots.txt                        100%[==============================================================================================================>]  10.93K  --.-KB/s    in 0.02s
+
+2021-09-29 05:06:07 (670 KB/s) - ‘web.badges.world/robots.txt’ saved [11189/11189]
+
+--2021-09-29 05:06:07--  https://web.badges.world/jquery-ui.icon-font.min.css
+SSL_INIT
+Reusing existing connection to web.badges.world:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 26715 (26K) [text/css]
+Saving to: ‘web.badges.world/jquery-ui.icon-font.min.css’
+
+web.badges.world/jquery-ui.icon-font.min.css       100%[==============================================================================================================>]  26.09K  --.-KB/s    in 0.03s
+
+2021-09-29 05:06:08 (764 KB/s) - ‘web.badges.world/jquery-ui.icon-font.min.css’ saved [26715/26715]
+
+--2021-09-29 05:06:08--  https://web.badges.world/badgerbadger.css
+SSL_INIT
+Reusing existing connection to web.badges.world:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4965 (4.8K) [text/css]
+Saving to: ‘web.badges.world/badgerbadger.css’
+
+web.badges.world/badgerbadger.css                  100%[==============================================================================================================>]   4.85K  --.-KB/s    in 0.007s
+
+2021-09-29 05:06:09 (695 KB/s) - ‘web.badges.world/badgerbadger.css’ saved [4965/4965]
+
+--2021-09-29 05:06:09--  https://web.badges.world/badge-measure.png
+SSL_INIT
+Reusing existing connection to web.badges.world:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10759 (11K) [image/png]
+Saving to: ‘web.badges.world/badge-measure.png’
+
+web.badges.world/badge-measure.png                 100%[==============================================================================================================>]  10.51K  --.-KB/s    in 0.02s
+
+2021-09-29 05:06:09 (653 KB/s) - ‘web.badges.world/badge-measure.png’ saved [10759/10759]
+
+--2021-09-29 05:06:09--  https://web.badges.world/nojson.js
+SSL_INIT
+Reusing existing connection to web.badges.world:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1291239 (1.2M) [text/javascript]
+Saving to: ‘web.badges.world/nojson.js’
+
+web.badges.world/nojson.js                         100%[==============================================================================================================>]   1.23M   143KB/s    in 11s
+
+2021-09-29 05:06:21 (118 KB/s) - ‘web.badges.world/nojson.js’ saved [1291239/1291239]
+
+--2021-09-29 05:06:21--  https://web.badges.world/badgerbadger.js
+SSL_INIT
+Reusing existing connection to web.badges.world:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4597 (4.5K) [text/javascript]
+Saving to: ‘web.badges.world/badgerbadger.js’
+
+web.badges.world/badgerbadger.js                   100%[==============================================================================================================>]   4.49K  --.-KB/s    in 0.004s
+
+2021-09-29 05:06:21 (1.23 MB/s) - ‘web.badges.world/badgerbadger.js’ saved [4597/4597]
+
+--2021-09-29 05:06:21--  https://web.badges.world/font/jquery-ui.eot?juif-bac778
+SSL_INIT
+Reusing existing connection to web.badges.world:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 62172 (61K) [application/vnd.ms-fontobject]
+Saving to: ‘web.badges.world/font/jquery-ui.eot?juif-bac778’
+
+web.badges.world/font/jquery-ui.eot?juif-bac778    100%[==============================================================================================================>]  60.71K   198KB/s    in 0.3s
+
+2021-09-29 05:06:22 (198 KB/s) - ‘web.badges.world/font/jquery-ui.eot?juif-bac778’ saved [62172/62172]
+
+--2021-09-29 05:06:22--  https://web.badges.world/font/jquery-ui.woff2?juif-bac778
+SSL_INIT
+Reusing existing connection to web.badges.world:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 21208 (21K) [font/woff2]
+Saving to: ‘web.badges.world/font/jquery-ui.woff2?juif-bac778’
+
+web.badges.world/font/jquery-ui.woff2?juif-bac778  100%[==============================================================================================================>]  20.71K  --.-KB/s    in 0.1s
+
+2021-09-29 05:06:23 (171 KB/s) - ‘web.badges.world/font/jquery-ui.woff2?juif-bac778’ saved [21208/21208]
+
+--2021-09-29 05:06:23--  https://web.badges.world/font/jquery-ui.woff?juif-bac778
+SSL_INIT
+Reusing existing connection to web.badges.world:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 62076 (61K) [font/woff]
+Saving to: ‘web.badges.world/font/jquery-ui.woff?juif-bac778’
+
+web.badges.world/font/jquery-ui.woff?juif-bac778   100%[==============================================================================================================>]  60.62K   179KB/s    in 0.3s
+
+2021-09-29 05:06:24 (179 KB/s) - ‘web.badges.world/font/jquery-ui.woff?juif-bac778’ saved [62076/62076]
+
+--2021-09-29 05:06:24--  https://web.badges.world/font/jquery-ui.ttf?juif-bac778
+SSL_INIT
+Reusing existing connection to web.badges.world:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 62000 (61K) [font/ttf]
+Saving to: ‘web.badges.world/font/jquery-ui.ttf?juif-bac778’
+
+web.badges.world/font/jquery-ui.ttf?juif-bac778    100%[==============================================================================================================>]  60.55K   167KB/s    in 0.4s
+
+2021-09-29 05:06:25 (167 KB/s) - ‘web.badges.world/font/jquery-ui.ttf?juif-bac778’ saved [62000/62000]
+
+--2021-09-29 05:06:25--  https://web.badges.world/font/slkscr.ttf
+SSL_INIT
+Reusing existing connection to web.badges.world:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 17068 (17K) [font/ttf]
+Saving to: ‘web.badges.world/font/slkscr.ttf’
+
+web.badges.world/font/slkscr.ttf                   100%[==============================================================================================================>]  16.67K  --.-KB/s    in 0.06s
+
+2021-09-29 05:06:25 (273 KB/s) - ‘web.badges.world/font/slkscr.ttf’ saved [17068/17068]
+
+--2021-09-29 05:06:25--  https://web.badges.world/blank.png
+SSL_INIT
+Reusing existing connection to web.badges.world:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 154 [image/png]
+Saving to: ‘web.badges.world/blank.png’
+
+web.badges.world/blank.png                         100%[==============================================================================================================>]     154  --.-KB/s    in 0s
+
+2021-09-29 05:06:25 (4.18 MB/s) - ‘web.badges.world/blank.png’ saved [154/154]
+
+--2021-09-29 05:06:25--  https://web.badges.world/blank2.png
+SSL_INIT
+Reusing existing connection to web.badges.world:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 154 [image/png]
+Saving to: ‘web.badges.world/blank2.png’
+
+web.badges.world/blank2.png                        100%[==============================================================================================================>]     154  --.-KB/s    in 0s
+
+2021-09-29 05:06:26 (3.78 MB/s) - ‘web.badges.world/blank2.png’ saved [154/154]
+
+--2021-09-29 05:06:26--  https://web.badges.world/blank3.png
+SSL_INIT
+Reusing existing connection to web.badges.world:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 153 [image/png]
+Saving to: ‘web.badges.world/blank3.png’
+
+web.badges.world/blank3.png                        100%[==============================================================================================================>]     153  --.-KB/s    in 0s
+
+2021-09-29 05:06:26 (3.96 MB/s) - ‘web.badges.world/blank3.png’ saved [153/153]
+
+FINISHED --2021-09-29 05:06:26--
+
+
+Total wall clock time: 21s
+Downloaded: 15 files, 1.5M in 12s (126 KB/s)

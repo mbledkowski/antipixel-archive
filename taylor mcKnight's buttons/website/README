@@ -1,0 +1,5 @@
+Copyrights: ./NOTICE
+Downloaded using: wget -r --regex-type pcre --accept-regex "https:\/\/*web.archive.org\/web\/\d{14}(im_)?\/https?:\/\/gtmcknight.com\/buttons\/.*\..{2,4}.*" https://web.archive.org/web/20080220004411/http://gtmcknight.com/buttons/blogware.php 2>&1 | tee LOGS
+About tool: wget --version
+GNU Wget 1.21.2 built on linux-gnu.
+Logs: ./LOGS
