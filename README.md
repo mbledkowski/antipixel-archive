@@ -32,7 +32,11 @@ Font used in most antipixel graphics:
 - Luca Zappa's 80x15 Brilliant Button Maker (DOWN!) - http://web.archive.org/web/20180105041443/http://www.lucazappa.com/brilliantMaker/buttonImage.php
 
 ## Badges
+- ButtonBrowser.com
+  - [Antipixel badge template](https://web.archive.org/web/20120511062640/http://www.buttonbrowser.com/main/index.php?page=antipixel)
+  - [Buttons-To-Surf badge pack](https://web.archive.org/web/20130409015944/http://www.buttonbrowser.com/main/index.php)
 - [zwahlendesign's Web Badges Article](http://web.archive.org/web/20060411214014/http://www.zwahlendesign.ch/en/node/19)
+
 ### Packs
 - [web.badges.world](https://web.badges.world/) - 3961 graphics
 - [Antipixel Buttons by Príomh Ó hÚigínn](https://dribbble.com/shots/997282-Antipixel-Buttons-80-x-15) - 208 assorted, 805 brands, 8 firefox, 72 twitter graphics (total 1093)
